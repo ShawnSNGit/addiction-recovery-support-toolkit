@@ -1,0 +1,2 @@
+# No third-party dependencies needed for the core toolkit -
+# it only uses the Python standard library (sqlite3, dataclasses, etc).
